@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="estream" channelId="-1" name="US:ID" group="USA" logo="https://telegratis.org/wp-content/uploads/2019/11/investigation-discovery.png" tvg-country="US",  Investigation Discovery
-https://r9uxprta46.azcdn107.net:8443/hls/sw9m2du9.m3u8?s=_aJFCCX821DilmfIP6AvNw&e=1625026842
+#EXTINF:0 type="estream" channelId="-1" name="SV:12" group="El Salvador" logo="https://www.canal12.com.sv/wp-content/uploads/2020/12/logo-1.png" tvg-country="SV",  Canal 12
+https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MDkxMTI0LCJzZXNzaW9uIjoiMjAxLjE1MC44Ni4xNDYiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE1MC44Ni4xNDYiXX0sInNpZ25hdHVyZSI6IjkxY2RmM2FhN2RmYWVkMGI4MDE4NzQxM2NmYTQyNDQ2YzFhOTE0NjYifQ==
+
